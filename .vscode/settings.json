@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "xiosbase": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp"
+    }
+}
